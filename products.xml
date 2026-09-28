@@ -16,6 +16,9 @@
 <IMAGES>
 <IMAGE description="Fotografie produktu">https://petrfilo-arch.github.io/importpc-matka-feed/img/ITPARTS-EYA0921B/1.jpg</IMAGE>
 <IMAGE description="Fotografie 2">https://petrfilo-arch.github.io/importpc-matka-feed/img/ITPARTS-EYA0921B/2.jpg</IMAGE>
+<IMAGE description="Fotografie 3">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/4037-2_30309-asus-f83-horni-kryt-eya0921b.jpg?69ede0ec</IMAGE>
+<IMAGE description="Fotografie 4">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/4037-3_30310-asus-f83-horni-kryt-eya0921b.jpg?69ede0ec</IMAGE>
+<IMAGE description="Fotografie 5">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/4037-4_30311-asus-f83-horni-kryt-eya0921b.jpg?69ede0ec</IMAGE>
 </IMAGES>
 <IMAGE_REF>https://petrfilo-arch.github.io/importpc-matka-feed/img/ITPARTS-EYA0921B/1.jpg</IMAGE_REF>
 <VISIBILITY>visible</VISIBILITY>
@@ -39,13 +42,13 @@
 <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
 </CATEGORIES>
 <IMAGES>
-<IMAGE description="Fotografie produktu">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/1646_18140-acer-aspire-a113-31-palmrest-tfq4dz8ptatn.jpg?69ede0d3</IMAGE>
+<IMAGE description="Fotografie produktu">https://petrfilo-arch.github.io/importpc-matka-feed/img/ITPARTS-TFQ4DZ8PTATN/1.jpg</IMAGE>
 <IMAGE description="Fotografie 2">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/1646-1_18141-acer-aspire-a113-31-palmrest-tfq4dz8ptatn.jpg?69ede0d3</IMAGE>
 <IMAGE description="Fotografie 3">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/1646-2_18142-acer-aspire-a113-31-palmrest-tfq4dz8ptatn.jpg?69ede0d3</IMAGE>
 <IMAGE description="Fotografie 4">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/1646-3_18143-acer-aspire-a113-31-palmrest-tfq4dz8ptatn.jpg?69ede0d3</IMAGE>
 <IMAGE description="Fotografie 5">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/1646-4_18144-acer-aspire-a113-31-palmrest-tfq4dz8ptatn.jpg?69ede0d3</IMAGE>
 </IMAGES>
-<IMAGE_REF>https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/1646_18140-acer-aspire-a113-31-palmrest-tfq4dz8ptatn.jpg?69ede0d3</IMAGE_REF>
+<IMAGE_REF>https://petrfilo-arch.github.io/importpc-matka-feed/img/ITPARTS-TFQ4DZ8PTATN/1.jpg</IMAGE_REF>
 <VISIBILITY>visible</VISIBILITY>
 <CODE>ITPARTS-TFQ4DZ8PTATN</CODE>
 <CURRENCY>CZK</CURRENCY>
