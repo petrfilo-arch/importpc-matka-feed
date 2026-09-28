@@ -3,8 +3,8 @@
 
 <SHOPITEM id="ITPARTS-EYA0921B">
 <NAME>Horní kryt pro notebook Asus F83, použitý</NAME>
-<SHORT_DESCRIPTION><![CDATA[<p>Použitý horní kryt pro notebook Asus F83. Jedná se o náhradní díl z kategorie horní víka. Stav dílu je použitý..</p>]]></SHORT_DESCRIPTION>
-<DESCRIPTION><![CDATA[<p>Použitý horní kryt pro notebook Asus F83. Jedná se o náhradní díl z kategorie horní víka. Stav dílu je použitý..</p>]]></DESCRIPTION>
+<SHORT_DESCRIPTION><![CDATA[<p>Použitý horní kryt pro notebook Asus F83. Jedná se o náhradní díl z kategorie horní víka. Stav: Použité, funkční; známky použití možné, viz fotografie.</p>]]></SHORT_DESCRIPTION>
+<DESCRIPTION><![CDATA[<p>Použitý horní kryt pro notebook Asus F83. Jedná se o náhradní díl z kategorie horní víka. Stav: Použité, funkční; známky použití možné, viz fotografie.</p>]]></DESCRIPTION>
 <MANUFACTURER>ASUS</MANUFACTURER>
 <WARRANTY>12 měsíců</WARRANTY>
 <ITEM_TYPE>bazaar</ITEM_TYPE>
@@ -14,13 +14,10 @@
 <DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
 </CATEGORIES>
 <IMAGES>
-<IMAGE description="Fotografie produktu">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/4037_30307-asus-f83-horni-kryt-eya0921b.jpg?69ede0ec</IMAGE>
-<IMAGE description="Fotografie 2">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/4037-1_30308-asus-f83-horni-kryt-eya0921b.jpg?69ede0ec</IMAGE>
-<IMAGE description="Fotografie 3">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/4037-2_30309-asus-f83-horni-kryt-eya0921b.jpg?69ede0ec</IMAGE>
-<IMAGE description="Fotografie 4">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/4037-3_30310-asus-f83-horni-kryt-eya0921b.jpg?69ede0ec</IMAGE>
-<IMAGE description="Fotografie 5">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/4037-4_30311-asus-f83-horni-kryt-eya0921b.jpg?69ede0ec</IMAGE>
+<IMAGE description="Fotografie produktu">https://petrfilo-arch.github.io/importpc-matka-feed/img/ITPARTS-EYA0921B/1.jpg</IMAGE>
+<IMAGE description="Fotografie 2">https://petrfilo-arch.github.io/importpc-matka-feed/img/ITPARTS-EYA0921B/2.jpg</IMAGE>
 </IMAGES>
-<IMAGE_REF>https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/4037_30307-asus-f83-horni-kryt-eya0921b.jpg?69ede0ec</IMAGE_REF>
+<IMAGE_REF>https://petrfilo-arch.github.io/importpc-matka-feed/img/ITPARTS-EYA0921B/1.jpg</IMAGE_REF>
 <VISIBILITY>visible</VISIBILITY>
 <CODE>ITPARTS-EYA0921B</CODE>
 <CURRENCY>CZK</CURRENCY>
@@ -30,9 +27,9 @@
 </SHOPITEM>
 
 <SHOPITEM id="ITPARTS-TFQ4DZ8PTATN">
-<NAME>Palmrest Acer Aspire A113-31, použitý</NAME>
-<SHORT_DESCRIPTION><![CDATA[<p>Palmrest pro notebook Acer Aspire A113-31. Jedná se o náhradní díl z kategorie šasi a kryty. Položka je ve stavu used (použitý)..</p>]]></SHORT_DESCRIPTION>
-<DESCRIPTION><![CDATA[<p>Palmrest pro notebook Acer Aspire A113-31. Jedná se o náhradní díl z kategorie šasi a kryty. Položka je ve stavu used (použitý)..</p>]]></DESCRIPTION>
+<NAME>Opěrka dlaní Acer Aspire A113-31, použitý</NAME>
+<SHORT_DESCRIPTION><![CDATA[<p>Opěrka dlaní pro notebook Acer Aspire A113-31. Jedná se o náhradní díl z kategorie šasi a kryty. Stav: Použité, funkční; známky použití možné, viz fotografie.</p>]]></SHORT_DESCRIPTION>
+<DESCRIPTION><![CDATA[<p>Opěrka dlaní pro notebook Acer Aspire A113-31. Jedná se o náhradní díl z kategorie šasi a kryty. Stav: Použité, funkční; známky použití možné, viz fotografie.</p>]]></DESCRIPTION>
 <MANUFACTURER>Acer</MANUFACTURER>
 <WARRANTY>12 měsíců</WARRANTY>
 <ITEM_TYPE>bazaar</ITEM_TYPE>
