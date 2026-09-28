@@ -1,6 +1,31 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <SHOP>
 
+<SHOPITEM id="ITPARTS-04W3769">
+<NAME>Intel Centrino 62205ANSFF bezdrátová síťová karta</NAME>
+<SHORT_DESCRIPTION><![CDATA[<p>Použitá bezdrátová síťová karta Intel Centrino 62205ANSFF. Jedná se o modul pro připojení k bezdrátovým sítím. Stav: Použité, funkční; známky použití možné, viz fotografie.</p>]]></SHORT_DESCRIPTION>
+<DESCRIPTION><![CDATA[<p>Použitá bezdrátová síťová karta Intel Centrino 62205ANSFF. Jedná se o modul pro připojení k bezdrátovým sítím. Stav: Použité, funkční; známky použití možné, viz fotografie.</p>]]></DESCRIPTION>
+<MANUFACTURER>Intel</MANUFACTURER>
+<WARRANTY>12 měsíců</WARRANTY>
+<ITEM_TYPE>bazaar</ITEM_TYPE>
+<ITEM_CONDITION><GRADE>used</GRADE><DESCRIPTION>použitý díl</DESCRIPTION></ITEM_CONDITION>
+<CATEGORIES>
+<CATEGORY id="904">Komponenty pro notebooky a počítače</CATEGORY>
+<DEFAULT_CATEGORY id="904">Komponenty pro notebooky a počítače</DEFAULT_CATEGORY>
+</CATEGORIES>
+<IMAGES>
+<IMAGE description="Fotografie produktu">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/20483_12871-intel-centrino-62205ansff-bezdratova-sitova-karta.jpg?69ede1a2</IMAGE>
+<IMAGE description="Fotografie 2">https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/20483-1_12872-intel-centrino-62205ansff-bezdratova-sitova-karta.jpg?69ede1a2</IMAGE>
+</IMAGES>
+<IMAGE_REF>https://cdn.myshoptet.com/usr/www.it-parts.cz/user/shop/orig/20483_12871-intel-centrino-62205ansff-bezdratova-sitova-karta.jpg?69ede1a2</IMAGE_REF>
+<VISIBILITY>visible</VISIBILITY>
+<CODE>ITPARTS-04W3769</CODE>
+<CURRENCY>CZK</CURRENCY>
+<VAT>21</VAT>
+<PRICE_VAT>266</PRICE_VAT>
+<STOCK><AMOUNT>1</AMOUNT></STOCK>
+</SHOPITEM>
+
 <SHOPITEM id="ITPARTS-EYA0921B">
 <NAME>Horní kryt pro notebook Asus F83, použitý</NAME>
 <SHORT_DESCRIPTION><![CDATA[<p>Použitý horní kryt pro notebook Asus F83. Jedná se o náhradní díl z kategorie horní víka. Stav: Použité, funkční; známky použití možné, viz fotografie.</p>]]></SHORT_DESCRIPTION>
